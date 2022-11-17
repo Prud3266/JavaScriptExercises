@@ -1,0 +1,29 @@
+body{
+  align-text: center
+}
+.button{
+  border: none;
+  height: 100px;
+  width: 100px;
+  background-color:white  
+}
+#head{
+  align-items: center;
+}
+.button img{
+  width: 100%;
+}
+ 
+#paper{
+  height: 100px;
+  width: 100px;
+  background-color:white 
+}
+#rock{
+  height: 100px;
+  width: 100px; 
+  background-color:white 
+#scissors{
+  height: 100px;
+  width: 100px; 
+  background-color:white
